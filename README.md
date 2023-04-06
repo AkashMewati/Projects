@@ -25,14 +25,21 @@ after cleaning and storing data I have applied my learnt skill to find the follo
 
 
 PROGRAMMING LANGUAGE TRENDS - FINDINGS & IMPLICATIONS
+
+
 Findings
+
 • JavaScript is the most highest number 
 of people working with, followed by 
 HTML/CSS 
 • TypeScript is expected to be in the 5th 
 place, while the Bash/Shell/PowerShell 
 is out
+
+
 Implications
+
+
 • JavaScript and HTML/CSS will be still 
 in the trends 
 • People are more interested in Python 
