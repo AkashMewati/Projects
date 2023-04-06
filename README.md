@@ -22,6 +22,8 @@ Data Collection (sources)
 • Removing Duplicates 
 
 after cleaning and storing data I have applied my learnt skill to find the following insights
+
+
 PROGRAMMING LANGUAGE TRENDS - FINDINGS & IMPLICATIONS
 Findings
 • JavaScript is the most highest number 
